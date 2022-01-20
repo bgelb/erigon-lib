@@ -26,9 +26,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ledgerwatch/erigon-lib/etl"
-	"github.com/ledgerwatch/erigon-lib/recsplit/eliasfano16"
-	"github.com/ledgerwatch/erigon-lib/recsplit/eliasfano32"
+	"github.com/bgelb/erigon-lib/etl"
+	"github.com/bgelb/erigon-lib/recsplit/eliasfano16"
+	"github.com/bgelb/erigon-lib/recsplit/eliasfano32"
 	"github.com/spaolacci/murmur3"
 )
 

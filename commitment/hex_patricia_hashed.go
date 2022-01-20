@@ -27,9 +27,9 @@ import (
 	"strings"
 
 	"github.com/holiman/uint256"
-	"github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/common/length"
-	"github.com/ledgerwatch/erigon-lib/rlp"
+	"github.com/bgelb/erigon-lib/common"
+	"github.com/bgelb/erigon-lib/common/length"
+	"github.com/bgelb/erigon-lib/rlp"
 	"golang.org/x/crypto/sha3"
 )
 

@@ -32,12 +32,12 @@ import (
 
 	"github.com/google/btree"
 	"github.com/holiman/uint256"
-	"github.com/ledgerwatch/erigon-lib/commitment"
-	"github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/common/length"
-	"github.com/ledgerwatch/erigon-lib/compress"
-	"github.com/ledgerwatch/erigon-lib/kv"
-	"github.com/ledgerwatch/erigon-lib/recsplit"
+	"github.com/bgelb/erigon-lib/commitment"
+	"github.com/bgelb/erigon-lib/common"
+	"github.com/bgelb/erigon-lib/common/length"
+	"github.com/bgelb/erigon-lib/compress"
+	"github.com/bgelb/erigon-lib/kv"
+	"github.com/bgelb/erigon-lib/recsplit"
 	"github.com/ledgerwatch/log/v3"
 	"golang.org/x/crypto/sha3"
 )

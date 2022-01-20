@@ -24,7 +24,7 @@ import (
 	"testing"
 
 	"github.com/holiman/uint256"
-	"github.com/ledgerwatch/erigon-lib/common"
+	"github.com/bgelb/erigon-lib/common"
 	"golang.org/x/crypto/sha3"
 )
 

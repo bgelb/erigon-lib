@@ -23,8 +23,8 @@ import (
 	"testing"
 
 	"github.com/holiman/uint256"
-	"github.com/ledgerwatch/erigon-lib/kv"
-	"github.com/ledgerwatch/erigon-lib/kv/memdb"
+	"github.com/bgelb/erigon-lib/kv"
+	"github.com/bgelb/erigon-lib/kv/memdb"
 )
 
 func int160(i uint64) []byte {

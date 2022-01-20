@@ -19,7 +19,7 @@ package direct
 import (
 	"context"
 
-	"github.com/ledgerwatch/erigon-lib/gointerfaces/remote"
+	"github.com/bgelb/erigon-lib/gointerfaces/remote"
 	"github.com/ledgerwatch/log/v3"
 	"google.golang.org/grpc"
 )

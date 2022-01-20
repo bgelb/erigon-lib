@@ -22,12 +22,12 @@ import (
 	"time"
 
 	"github.com/holiman/uint256"
-	"github.com/ledgerwatch/erigon-lib/chain"
-	"github.com/ledgerwatch/erigon-lib/direct"
-	"github.com/ledgerwatch/erigon-lib/kv"
-	"github.com/ledgerwatch/erigon-lib/kv/kvcache"
-	"github.com/ledgerwatch/erigon-lib/kv/mdbx"
-	"github.com/ledgerwatch/erigon-lib/txpool"
+	"github.com/bgelb/erigon-lib/chain"
+	"github.com/bgelb/erigon-lib/direct"
+	"github.com/bgelb/erigon-lib/kv"
+	"github.com/bgelb/erigon-lib/kv/kvcache"
+	"github.com/bgelb/erigon-lib/kv/mdbx"
+	"github.com/bgelb/erigon-lib/txpool"
 	"github.com/ledgerwatch/log/v3"
 )
 

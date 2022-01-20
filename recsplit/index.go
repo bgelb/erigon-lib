@@ -22,9 +22,9 @@ import (
 	"os"
 	"unsafe"
 
-	"github.com/ledgerwatch/erigon-lib/mmap"
-	"github.com/ledgerwatch/erigon-lib/recsplit/eliasfano16"
-	"github.com/ledgerwatch/erigon-lib/recsplit/eliasfano32"
+	"github.com/bgelb/erigon-lib/mmap"
+	"github.com/bgelb/erigon-lib/recsplit/eliasfano16"
+	"github.com/bgelb/erigon-lib/recsplit/eliasfano32"
 	"github.com/spaolacci/murmur3"
 )
 

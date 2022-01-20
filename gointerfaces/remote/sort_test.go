@@ -4,8 +4,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/ledgerwatch/erigon-lib/gointerfaces/remote"
-	"github.com/ledgerwatch/erigon-lib/gointerfaces/types"
+	"github.com/bgelb/erigon-lib/gointerfaces/remote"
+	"github.com/bgelb/erigon-lib/gointerfaces/types"
 	"github.com/stretchr/testify/assert"
 )
 

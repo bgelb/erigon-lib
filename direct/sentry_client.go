@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/ledgerwatch/erigon-lib/gointerfaces/sentry"
-	"github.com/ledgerwatch/erigon-lib/gointerfaces/types"
+	"github.com/bgelb/erigon-lib/gointerfaces/sentry"
+	"github.com/bgelb/erigon-lib/gointerfaces/types"
 	"github.com/ledgerwatch/log/v3"
 	"google.golang.org/grpc"
 	"google.golang.org/protobuf/types/known/emptypb"

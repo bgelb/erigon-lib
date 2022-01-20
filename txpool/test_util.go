@@ -20,8 +20,8 @@ import (
 	"context"
 	"sync"
 
-	"github.com/ledgerwatch/erigon-lib/gointerfaces"
-	"github.com/ledgerwatch/erigon-lib/gointerfaces/sentry"
+	"github.com/bgelb/erigon-lib/gointerfaces"
+	"github.com/bgelb/erigon-lib/gointerfaces/sentry"
 	"google.golang.org/protobuf/types/known/emptypb"
 )
 

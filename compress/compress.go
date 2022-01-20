@@ -29,9 +29,9 @@ import (
 	"sort"
 
 	"github.com/flanglet/kanzi-go/transform"
-	"github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/etl"
-	"github.com/ledgerwatch/erigon-lib/patricia"
+	"github.com/bgelb/erigon-lib/common"
+	"github.com/bgelb/erigon-lib/etl"
+	"github.com/bgelb/erigon-lib/patricia"
 )
 
 const ASSERT = false
