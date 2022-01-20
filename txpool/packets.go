@@ -20,9 +20,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/common/length"
-	"github.com/ledgerwatch/erigon-lib/rlp"
+	"github.com/bgelb/erigon-lib/common"
+	"github.com/bgelb/erigon-lib/common/length"
+	"github.com/bgelb/erigon-lib/rlp"
 )
 
 type NewPooledTransactionHashesPacket [][length.Hash]byte

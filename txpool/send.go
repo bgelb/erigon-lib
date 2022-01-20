@@ -20,8 +20,8 @@ import (
 	"context"
 	"sync"
 
-	"github.com/ledgerwatch/erigon-lib/direct"
-	"github.com/ledgerwatch/erigon-lib/gointerfaces/sentry"
+	"github.com/bgelb/erigon-lib/direct"
+	"github.com/bgelb/erigon-lib/gointerfaces/sentry"
 	"github.com/ledgerwatch/log/v3"
 	"google.golang.org/grpc"
 )

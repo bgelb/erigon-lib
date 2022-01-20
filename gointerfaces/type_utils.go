@@ -17,7 +17,7 @@ import (
 	"encoding/binary"
 
 	"github.com/holiman/uint256"
-	"github.com/ledgerwatch/erigon-lib/gointerfaces/types"
+	"github.com/bgelb/erigon-lib/gointerfaces/types"
 )
 
 func ConvertH256ToHash(h256 *types.H256) [32]byte {

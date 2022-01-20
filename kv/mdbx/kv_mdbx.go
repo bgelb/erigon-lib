@@ -30,7 +30,7 @@ import (
 
 	"github.com/c2h5oh/datasize"
 	stack2 "github.com/go-stack/stack"
-	"github.com/ledgerwatch/erigon-lib/kv"
+	"github.com/bgelb/erigon-lib/kv"
 	"github.com/ledgerwatch/log/v3"
 	"github.com/torquem-ch/mdbx-go/mdbx"
 )

@@ -20,7 +20,7 @@ import (
 	"encoding/binary"
 	"os"
 
-	"github.com/ledgerwatch/erigon-lib/mmap"
+	"github.com/bgelb/erigon-lib/mmap"
 )
 
 // Decompressor provides access to the words in a file produced by a compressor

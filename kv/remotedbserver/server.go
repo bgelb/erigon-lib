@@ -23,9 +23,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ledgerwatch/erigon-lib/gointerfaces/remote"
-	"github.com/ledgerwatch/erigon-lib/gointerfaces/types"
-	"github.com/ledgerwatch/erigon-lib/kv"
+	"github.com/bgelb/erigon-lib/gointerfaces/remote"
+	"github.com/bgelb/erigon-lib/gointerfaces/types"
+	"github.com/bgelb/erigon-lib/kv"
 	"github.com/ledgerwatch/log/v3"
 	"google.golang.org/protobuf/types/known/emptypb"
 )

@@ -24,8 +24,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ledgerwatch/erigon-lib/kv"
-	"github.com/ledgerwatch/erigon-lib/kv/memdb"
+	"github.com/bgelb/erigon-lib/kv"
+	"github.com/bgelb/erigon-lib/kv/memdb"
 	"github.com/stretchr/testify/assert"
 	"github.com/ugorji/go/codec"
 )

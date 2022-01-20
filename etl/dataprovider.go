@@ -24,7 +24,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/ledgerwatch/erigon-lib/common"
+	"github.com/bgelb/erigon-lib/common"
 	"github.com/ledgerwatch/log/v3"
 )
 
